@@ -1,6 +1,6 @@
 //
-//  Temp_ConverterApp.swift
-//  Temp Converter
+//  Unit_ConverterAPP.swift
+//  Unit Converter
 //
 //  Created by Ishaan Bedi on 03/01/22.
 //
@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct Temp_ConverterApp: App {
+struct Unit_ConverterAPP: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
