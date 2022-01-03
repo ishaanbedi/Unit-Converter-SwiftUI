@@ -1,6 +1,7 @@
 //
 //  ContentView.swift
-//  Temp Converter
+//  Unit Converter
+
 //
 //  Created by Ishaan Bedi on 03/01/22.
 //
